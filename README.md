@@ -275,3 +275,4 @@ Please take a look at the pattern of the final query.
 
 Please add a ordering clause by person name in ascending mode and by pizzeria name in descending mode.
 
+# SQLALL
